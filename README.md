@@ -1,6 +1,6 @@
 # Personal_Project
 > Visualization of Covid Status in Korea
-> 한국 코로나 현황을 시각화하기 위한 프로젝트
+>> 한국 코로나 현황을 시각화하기 위한 프로젝트
 ***
 
 
