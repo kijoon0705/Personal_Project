@@ -19,15 +19,16 @@
 
 ***
 
-1. 서울지 지하철 혼잡도 분석
+### 1. 서울지 지하철 혼잡도 분석
+> 참고 : 자세한 설명
 
-참고 : 자세한 설명
-[프로그래밍 언어]
+#### [프로그래밍 언어]
++ Python 3.6.8
 
-Python 3.6.8
-[개발환경]
+#### [개발환경]
++ macOS Catalina 10.15.16
++ Ubuntu 18.04
++ Jupyter Notebook 
 
-Jupyter notebook
-[설명]
-
-프로젝트 개요 : 서울시의 지하철 역 별 유동인구 분석, 지도 시각화
+#### [설명]
++ 프로젝트 개요 : Analysis of the Flowing Population by Subway Station in Seoul and Visualized in real map.
