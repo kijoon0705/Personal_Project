@@ -1,6 +1,6 @@
 # Personal_Project
-> Visualization of Covid Status in Korea  
->한국 코로나 현황을 시각화하기 위한 프로젝트
+> This is my personal project to studying Pandas. 
+> 판다스르 공부하기 위한 제 개인 프로젝트입니다. 
 ***
 
 ### 1. Corona Virus status Analysis
