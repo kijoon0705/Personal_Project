@@ -3,10 +3,7 @@
 >한국 코로나 현황을 시각화하기 위한 프로젝트
 ***
 
-
-This is the space where I record my personal projects
-제 개인적인 프로젝트를 기록하기 위한 공간입니다.
-1. Subway Conjestion Analysis
+##1. Subway Conjestion Analysis
 
 Reference : detailed explanation
 [Programming Language]
