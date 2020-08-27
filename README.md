@@ -3,7 +3,7 @@
 >한국 코로나 현황을 시각화하기 위한 프로젝트
 ***
 
-### 1. Subway Conjestion Analysis
+### 1. Corona Virus status Analysis
 > Reference : detailed explanation
 
 #### [Programming Language]
@@ -15,11 +15,11 @@
 + Jupyter Notebook 
 
 #### [Description]
-+ Project Overview : Analysis of the Flowing Population by Subway Station in Seoul and Visualized in real map.
++ Project Overview : Analysis of Corona Virus status in South Korea and Visualized in real map by using Pandas.
 
 ***
 
-### 1. 서울지 지하철 혼잡도 분석
+### 1. 한국 코로나 바이러스 현황 분석
 > 참고 : 자세한 설명
 
 #### [프로그래밍 언어]
@@ -31,4 +31,4 @@
 + Jupyter Notebook 
 
 #### [설명]
-+ 프로젝트 개요 : Analysis of the Flowing Population by Subway Station in Seoul and Visualized in real map.
++ 프로젝트 개요 : 판다스를 활용하여 한국 코로나 현황 분석 및 지도 시각화.
