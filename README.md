@@ -5,15 +5,20 @@
 
 ### 1. Subway Conjestion Analysis
 > Reference : detailed explanation
+
 #### [Programming Language]
++ Python 3.6.8
 
-Python 3.6.8
-[Development Enviroment]
+#### [Development Enviroment]
++ macOS Catalina 10.15.16
++ Ubuntu 18.04
++ Jupyter Notebook 
 
-Jupyter notebook
-[Description]
+#### [Description]
++ Project Overview : Analysis of the Flowing Population by Subway Station in Seoul and Visualized in real map.
 
-Project Overview : Analysis of the Flowing Population by Subway Station in Seoul and Visualized in real map.
+***
+
 1. 서울지 지하철 혼잡도 분석
 
 참고 : 자세한 설명
