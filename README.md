@@ -4,9 +4,8 @@
 ***
 
 ### 1. Subway Conjestion Analysis
-
-Reference : detailed explanation
-[Programming Language]
+> Reference : detailed explanation
+### [Programming Language]
 
 Python 3.6.8
 [Development Enviroment]
