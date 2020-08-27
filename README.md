@@ -3,7 +3,7 @@
 >한국 코로나 현황을 시각화하기 위한 프로젝트
 ***
 
-##1. Subway Conjestion Analysis
+## 1. Subway Conjestion Analysis
 
 Reference : detailed explanation
 [Programming Language]
