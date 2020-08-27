@@ -1,6 +1,6 @@
 # Personal_Project
 > This is my personal project to studying Pandas.  
-> 판다스르 공부하기 위한 제 개인 프로젝트입니다. 
+> 판다스를 공부하기 위한 제 개인 프로젝트입니다. 
 ***
 
 ### 1. Corona Virus status Analysis
