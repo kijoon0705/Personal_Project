@@ -4,7 +4,7 @@
 ***
 
 ### 1. Corona Virus status Analysis
-> Reference : detailed explanation
+> Reference : detailed explanation [detailed explanation](https://blog.naver.com/kijoon0705/222073645853, "detailed explanation")
 
 #### [Programming Language]
 + Python 3.6.8
