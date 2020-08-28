@@ -4,7 +4,7 @@
 ***
 
 ### 1. Corona Virus status Analysis
-> Reference : detailed explanation [detailed explanation](https://blog.naver.com/kijoon0705/222073645853, "detailed explanation")
+> Reference : [detailed explanation](https://blog.naver.com/kijoon0705/222073645853, "detailed explanation")
 
 #### [Programming Language]
 + Python 3.6.8
@@ -20,7 +20,7 @@
 ***
 
 ### 1. 한국 코로나 바이러스 현황 분석
-> 참고 : 자세한 설명
+> 참고 : [자세한 설명] (https://blog.naver.com/kijoon0705/222073645853, "자세한 설명")
 
 #### [프로그래밍 언어]
 + Python 3.6.8
