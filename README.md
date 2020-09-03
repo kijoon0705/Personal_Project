@@ -1,5 +1,5 @@
 # Personal_Project
-> This is my personal project to studying Pandas.  
+> This is my personal project to study Pandas.  
 > 판다스 공부를 위한 제 개인 프로젝트입니다. 
 ***
 
